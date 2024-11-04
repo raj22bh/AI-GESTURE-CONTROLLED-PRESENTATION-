@@ -2,6 +2,10 @@
 
 This project implements a gesture-controlled presentation system using OpenCV and speech recognition. It allows users to navigate through presentation slides using hand gestures and voice commands.
 
+#DEMONSTRATION-
+HERE IS HOW THIS CODE WORKS 
+yt link - https://www.youtube.com/watch?v=wALsmFQcqlc&t=1s
+
 ## Features
 
 - Hand detection and gesture recognition using OpenCV.
