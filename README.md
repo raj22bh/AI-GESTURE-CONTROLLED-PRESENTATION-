@@ -60,7 +60,7 @@ To exit the application, press the 'q' key.
 Hand detection allows for gesture-based interactions. Implement gesture logic (such as drawing or navigation) in the specified section of the code.
 
   ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the **LICENSE** file for details.
 
 ## Acknowledgments
 OpenCV for computer vision functionalities.
